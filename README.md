@@ -57,7 +57,7 @@ Desarrollado y mantenido por DevCat con ❤️
 
 ¿Necesitas ayuda o tienes sugerencias? ¡Contáctanos!
 
-- 📧 Email: [ejemplo@email.com]
+- 📧 Email: [prototiphs0108@gmail.com]
 - 💬 Issues: [Crear un issue](https://github.com/DevCat-HGS/Certificados-SENA/issues)
 
 ---
